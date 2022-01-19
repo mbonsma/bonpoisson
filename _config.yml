@@ -3,8 +3,8 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: u(t) Theoretical Biophysics 
-description: "A group of physicists at the University of Toronto unraveling the natural world around us."
+title: Bon Poisson 
+description: "Two scientists and their at-home experiments."
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
@@ -20,8 +20,8 @@ language: en
 
 titleBackground: '/img/brayden-blackboard-dark.jpg' #"https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: #"Welcome to our website for science advances!"
-headlineMain: "Theoretical Biophysics at the University of Toronto"
-logo: "img/logos/UofT-logo.png"
+headlineMain: "Bon Poisson"
+logo: "img/logos/bonpoisson.png"
 
 # Setup Google Calendar
 # Usage:
@@ -29,7 +29,7 @@ logo: "img/logos/UofT-logo.png"
 # 2. change 'USER' in the example urls below to the username of the google account you made for your calendar
 # 3. set calendar_on: True.
 
-calendar_on: True
+calendar_on: False
 calendar_embed_url: "https://calendar.google.com/calendar/embed?src=hlml.toronto%40gmail.com&ctz=America%2FToronto"
 calendar_ical_url: "https://calendar.google.com/calendar/ical/hlml.toronto%40gmail.com/public/basic.ics"
 
