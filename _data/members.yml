@@ -1,10 +1,17 @@
 maddy:
     display_name: "Madeleine Bonsma-Fisher"
     role: present
-    affiliation: UofT Physics
+    affiliation: 
     #image:
     github: mbonsma
-    bio: Physics Ph.D.
+    bio: Physics PhD
     interests:
 
-
+kent:
+    dislay_name: "Kent Bonsma-Fisher"
+    role: present
+    affiliation: 
+    #image:
+    github: kfishy
+    bio: Physics PhD
+    interests:
