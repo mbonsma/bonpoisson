@@ -17,10 +17,10 @@ activities:
     icon: fa-dna
 
 teamHeadline: Who We Are
-teamSubheading: "We're scientists, students and researchers who want to work with you!"
+teamSubheading: "Two nerds who wanted to share our ideas with you!"
 interests: Interests
 
-codeOfConduct: Study Group Code of Conduct
+codeOfConduct: Code of Conduct
 
 ##### JR : This stuff is not currently used on the website. However, if we want
 #####     to implement some calendar and schedule of events... we can.
